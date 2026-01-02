@@ -11,3 +11,4 @@ This experiment runs for 90 consecutive days.
 No extensions are planned.
 
 ## Daily Record
+CGR-1 (2026-01-01): $4,330.00 per oz
