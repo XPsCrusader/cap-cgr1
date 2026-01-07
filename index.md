@@ -13,6 +13,12 @@ No extensions are planned.
 
 ## Daily Record
 CGR-1 (2026-01-01): $4,330.00 per oz
+
 CGR-1 (2026-01-02): $4,367.80 per oz
+
 CGR-1 (2026-01-05): $4,449.90 per oz
+
 CGR-1 (2026-01-06): $4,456.40 per oz
+
+CGR-1 (2026-01-07): $4,457.25 per oz
+
