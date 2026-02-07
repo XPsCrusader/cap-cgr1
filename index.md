@@ -1,4 +1,4 @@
-# Cap Experiment — CGR-1 Daily Record
+Cap Experiment — CGR-1 Daily Record
 Cap is a 90-day currency experiment: a unit of account defined by a public gold reference, without exchange or circulation.
 To interpret: “1 Cap” is defined by the daily CGR-1 number recorded below for that date.
 
@@ -63,3 +63,5 @@ CGR-1 (2026-02-03): $4,919.76 per oz
 CGR-1 (2026-02-04): $5,051.75 per oz
 
 CGR-1 (2026-02-05): $4,847.54 per oz
+
+CGR-1 (2026-02-06): $4,847.25 per oz
